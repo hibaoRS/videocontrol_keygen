@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="videocontrol_keygen">
+    <output-path>$PROJECT_DIR$/out/artifacts/videocontrol_keygen</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Keygen" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="windowsIcon" value="$PROJECT_DIR$/src/videocontrol_keygen.ico" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="HaiBao Video Record System Keygen" />
+        <option name="vendor" value="HaiBao" />
+        <option name="version" value="HaiBao Video Record System Keygen" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="videocontrol_keygen.jar">
+        <element id="module-output" name="videocontrol_keygen" />
+      </element>
+    </root>
+  </artifact>
+</component>
